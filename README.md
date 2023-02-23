@@ -1,6 +1,7 @@
 # TrustLab Data Scientist Technical Assessment - Data Visualization
 
-This project involves data visualization tasks as part of TrustLab's Data Scientist Technical Assessment. The code is written in Python and uses several libraries such as os, wordcloud, plotly, pandas, ipywidgets, and IPython.display. At first, i developed an strealmit app because it's a library i am familiar with. Then i migrate the app into a jupyter notebook. 
+This project involves data visualization tasks as part of TrustLab's Data Scientist Technical Assessment. The code is written in Python and uses several libraries such as os, wordcloud, plotly, pandas, ipywidgets, and IPython.display. At first, i developed an streamlit app because it's a library i am familiar with. Then i migrate the app into a jupyter notebook. 
+
 ## Project overview
 
 The project involves those main tasks:
